@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Table {
+  border: 2px solid;
+}
+td {
+  border: 2px solid;
+  gap: 2px;
+}
